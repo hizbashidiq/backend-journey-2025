@@ -1,0 +1,20 @@
+{
+    "username": "John",
+    "tasks": [
+        {
+            "task_name": "Do laundry",
+            "description": "Just do it",
+            "status": "finished"
+        },
+        {
+            "task_name": "Read book",
+            "description": "At least read one book this year",
+            "status": "unfinished"
+        },
+        {
+            "task_name": "Write script",
+            "description": "Write any script in python. Just be productive",
+            "status": "unfinished"
+        }
+    ]
+}
